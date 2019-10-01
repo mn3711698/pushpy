@@ -46,5 +46,7 @@ App({
 我自己的集成小程序示例  https://github.com/mn3711698/dszmini
 
 ## 交流更多请加QQ群
+QQ群号：920176170
+
 
 ![](https://github.com/mn3711698/pushpy/blob/master/pushpyQQ.png)
