@@ -7,7 +7,7 @@
 
 
 ## 一个版本通天下
->  体验及注册：https://push.yjyzj.cn
+>  注册使用：https://push.yjyzj.cn
 
 ## 快速集成并体验
 
