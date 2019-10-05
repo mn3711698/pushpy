@@ -1,11 +1,11 @@
 /**
- * vPush-Pro-SDK
+ * pushpy-SDK
  * CheckIn 签到组件
  * ===============
  * 每日弹出一个签到界面，用户点击后自动收集推送凭证
  * 用于懒人模式，懒得集成SDK，那就直接嵌入这个组件，完美！
- * GitHub:https://github.com/guren-cloud/vpush-pro-sdk
- * 官网：https://mssnn.cn
+ * GitHub:https://github.com/mn3711698/pushpy
+ * 官网：https://yjyzj.cn
  * ===============
  * 用法：
  * 1. 页面json中引入组件
@@ -60,14 +60,7 @@ Component({
     // 3. 回调父层onCheckIn函数
     checkin: function (e) {
       vPush.addFormId(e);
-      // vPush.addFormId(e, () => {
-      /*this.setData({
-        SHOW_CLASS: 'animation-hide'
-      });
-      wx.setStorageSync(CHECKIN_STORAGE_KEY, '1');
-      this.triggerEvent('CheckIn', e, {});
-      */
-      // });
+
     }
   }
 })
